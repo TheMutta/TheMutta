@@ -44,9 +44,6 @@ int main() {
 }
 
 void enter_my_lab(programmer_t *programmer) {
+  // TODO(TheMutta): Refactor ;)
 }
-```
-
-}
-
 ```
